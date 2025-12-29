@@ -1,0 +1,8 @@
+{
+  "name": "糖友管家 (Sugar Guardian)",
+  "description": "一款专为老年糖尿病患者设计的智能饮食管理应用。支持拍照分析食物GI值、全天糖摄入统计以及AI语音指导，帮助老人轻松控糖。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
